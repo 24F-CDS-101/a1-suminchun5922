@@ -60,6 +60,6 @@ The second line of output is printed out instead, but this means that the calcul
 
 ## 3.2 Displaying Graphs
 
-```{r}
+```{r warning=FALSE}
 ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
 ```
