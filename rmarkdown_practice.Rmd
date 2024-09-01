@@ -35,18 +35,17 @@ The weekly interactive tutorials must be completed by the start of each week. Th
 
 By the end of the course, students will be able to:
 
-* Use GitHub for creating a reproducible research document.
+-   Use GitHub for creating a reproducible research document.
 
-    - My GitHub username is: *suminchun5922*
+    -   My GitHub username is: *suminchun5922*
 
-* Obtain, clean, transform, and visualize a dataset using the R programming language.
+-   Obtain, clean, transform, and visualize a dataset using the R programming language.
 
-* Interpret and predict dataset trends using statistical inference and models.
+-   Interpret and predict dataset trends using statistical inference and models.
 
-* Critically examine and interpret statistical claims reported in mass media.
+-   Critically examine and interpret statistical claims reported in mass media.
 
 # Including Code
-
 ## 3.1 Running R code in a code chunk
 
 ```{r}
